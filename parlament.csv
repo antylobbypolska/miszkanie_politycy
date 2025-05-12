@@ -1,0 +1,127 @@
+lp,Imie I nazwisko,lista,data urodzenia,Zawód,dom powierzchnia,dom wartosc,Mieszkanie lub dom 1 powierzchnia,Mieszkanie lub dom 1 wartosc,Mieszkanie 2 powierzchnia,Mieszkanie 2 wartosc,Mieszkanie 3 powierzchnia,Mieszkanie 3 wartosc,Mieszkanie 4 powierzchnia,Mieszkanie 4 wartosc,Mieszkanie 5 powierzchnia,Mieszkanie 5 wartosc,suma wartosci wszystkich domow lub mieszkan,suma powierzchni,cena za metr
+1,Andrzej Adamczyk,Prawo i Sprawiedliwość,04-01-1959,ekonomista,187.1,520000,37,290000,,,,,,,,,810000,224.1,3614.5
+2,Piotr Adamowicz,Koalicja Obywatelska,26-06-1961,dziennikarz,,,68,400000,46,320000,,,,,,,720000,114,6315.8
+3,Adam Andruszkiewicz,Prawo i Sprawiedliwość,30-06-1990,parlamentarzysta,189,1050000,,,,,,,,,,,1050000,189,5555.6
+4,Waldemar Andzel,Prawo i Sprawiedliwość,17-09-1971,politolog,,,85.3,367000,,,,,,,,,367000,85.3,4302.5
+5,Dorota Arciszewska-Mielewczyk,Prawo i Sprawiedliwość,16-02-1968,"ekonomista, menedżer",563,6500000,236.61,500000,,,,,,,,,7000000,799.61,8754.3
+6,Jan Krzysztof Ardanowski,Prawo i Sprawiedliwość,11-02-1961,rolnik,200,706000,,,,,,,,,,,706000,200,3530.0
+7,Iwona Ewa Arent,Prawo i Sprawiedliwość,04-06-1968,politolog,,,67.5,400000,53.4,350000,,,,,,,750000,120.9,6203.5
+8,Bartosz Arłukowicz,Koalicja Obywatelska,30-12-1971,lekarz,265,1200000,56.79,437000,,,,,,,,,1637000,321.79,5087.2
+9,Marek Ast,Prawo i Sprawiedliwość,27-09-1958,"pracownik samorządowy, radca prawny, urzędnik państwowy",170,400000,,,,,,,,,,,400000,170,2352.9
+10,Urszula Augustyn,Koalicja Obywatelska,01-09-1964,dziennikarz,80,250000,37,200000,,,,,,,,,450000,117,3846.2
+11,Piotr Babinetz,Prawo i Sprawiedliwość,09-09-1969,"historyk, muzealnik",0,318000,62,300000,,,,,,,,,618000,62,9967.7
+12,Anna Baluch,Prawo i Sprawiedliwość,03-06-1973,urzędnik samorządowy,,,,,,,,,,,,,0,0,#DIV/0!
+13,Ryszard Bartosik,Prawo i Sprawiedliwość,11-01-1968,politolog,220,500000,,,,,,,,,,,500000,220,2272.7
+14,Władysław Bartoszewski,Trzecia Droga Polska 2050 Szymona Hołowni - Polskie Stronnictwo Ludowe,22-10-1955,pracownik naukowy,,,,,,,,,,,,,0,0,#DIV/0!
+15,Barbara Bartuś,Prawo i Sprawiedliwość,03-07-1967,prawnik,120,400000,78.71,450000,,,,,,,,,850000,198.71,4277.6
+16,Paweł Bejda,Trzecia Droga Polska 2050 Szymona Hołowni - Polskie Stronnictwo Ludowe,13-10-1962,"inżynier mechanik, menedżer",295,470000,,,,,,,,,,,470000,295,1593.2
+17,Konrad Berkowicz,Konfederacja Wolność i Niepodległość,27-05-1984,"programista
+",,,,,,,,,,,,,0,0,#DIV/0!
+18,Sylwia Bielawska,Koalicja Obywatelska,27-04-1975,"pracownik samorządowy, radca prawny, urzędnik państwowy",182,650000,,,,,,,,,,,650000,182,3571.4
+19,Marek Biernacki,Trzecia Droga Polska 2050 Szymona Hołowni - Polskie Stronnictwo Ludowe,28-04-1959,prawnik,253,70000,,,,,,,,,,,70000,253,276.7
+20,Paweł Bliźniuk,Koalicja Obywatelska,11-10-1986,pracownik administracji samorządowej,,,39,110000,,,,,,,,,110000,39,2820.5
+21,Mariusz Błaszczak,Prawo i Sprawiedliwość,19-09-1969,"urzędnik państwowy
+",155.78,850000,49.23,300000,58,650000,,,,,,,1800000,263.01,6843.8
+22,Mateusz Bochenek,Koalicja Obywatelska,12-03-1993,parlamentarzysta,,,,,,,,,,,,,0,0,#DIV/0!
+23,Rafał Bochenek,Prawo i Sprawiedliwość,14-08-1986,prawnik,,,,,,,,,,,,,0,0,#DIV/0!
+24,Izabela Bodnar,Trzecia Droga Polska 2050 Szymona Hołowni - Polskie Stronnictwo Ludowe,13-02-1975,ekonomista,250,3500000,,,,,,,,,,,3500000,250,14000.0
+25,Jacek Bogucki,Prawo i Sprawiedliwość,13-02-1959,"inżynier mechanik
+",356,700000,,,,,,,,,,,700000,356,1966.3
+26,Zbigniew Bogucki,Prawo i Sprawiedliwość,26-01-1980,adwokat,78.66,786600,57.62,576200,34.93,330000,60.7,460000,,,,,2152800,231.91,9282.9
+27,Krzysztof Bojarski,Koalicja Obywatelska,11-07-1968,lekarz,,,,,,,,,,,,,0,0,#DIV/0!
+28,Joanna Borowiak,Prawo i Sprawiedliwość,20-08-1967,"nauczyciel, nauczyciel akademicki",150,550000,41.13,330000,,,,,,,,,880000,191.13,4604.2
+29,Kamil Bortniczuk,Prawo i Sprawiedliwość,11-06-1983,"menedżer, prawnik, urzędnik państwowy",200,900000,74,1000000,,,,,,,,,1900000,274,6934.3
+30,Piotr Borys,Koalicja Obywatelska,11-01-1976,prawnik,220,750000,,,,,,,,,,,750000,220,3409.1
+31,Bożena Borys-Szopa,Prawo i Sprawiedliwość,11-03-1954,prawnik,76.4,300000,61.7,200000,,,,,,,,,500000,138.1,3620.6
+32,Marcin Bosacki,Koalicja Obywatelska,05-11-1970,,230,1800000,74,750000,59.4,630000,,,,,,,3180000,363.4,8750.7
+33,Karina Anna Bosak,Konfederacja Wolność i Niepodległość,08-07-1988,adwokat,57,,,,,,,,,,,,0,57,0.0
+34,Krzysztof Bosak,Konfederacja Wolność i Niepodległość,13-06-1982,parlamentarzysta,,,,,,,,,,,,,0,0,#DIV/0!
+35,Grzegorz Braun,Konfederacja Wolność i Niepodległość,11-03-1967,"publicysta, reżyser",,,,,,,,,,,,,0,0,#DIV/0!
+36,Krzysztof Brejza,Koalicja Obywatelska,16-05-1983,prawnik,,,,,,,,,,,,,0,0,#DIV/0!
+37,Agnieszka Buczyńska,Trzecia Droga Polska 2050 Szymona Hołowni - Polskie Stronnictwo Ludowe,22-09-1986,"politolog, socjolog",210,1700000,,,,,,,,,,,1700000,210,8095.2
+38,Waldemar Buda,Prawo i Sprawiedliwość,21-09-1982,radca prawny,147,600000,54,250000,,,,,,,,,850000,201,4228.9
+39,Borys Budka,Koalicja Obywatelska,11-03-1978,"nauczyciel akademicki, radca prawny",291,800000,165,408000,75,160000,,,,,,,1368000,531,2576.3
+40,Elżbieta Burkiewicz,Trzecia Droga Polska 2050 Szymona Hołowni - Polskie Stronnictwo Ludowe,17-10-1964,przedsiębiorca prywatny,156,1200000,66,950000,,,,,,,,,2150000,222,9684.7
+41,Marek Jan Chmielewski,Koalicja Obywatelska,06-05-1962,technolog żywności,218,600000,45.75,180000,52.4,200000,58.21,265000,,,,,1245000,374.36,3325.7
+42,Zbigniew Chmielowiec,Prawo i Sprawiedliwość,22-09-1954,inżynier inżynierii środowiska,120,340000,,,,,,,,,,,340000,120,2833.3
+43,Artur Chojecki,Prawo i Sprawiedliwość,19-04-1974,urzędnik państwowy ,,,56.5,450000,,,,,,,,,450000,56.5,7964.6
+44,Kazimierz Bogusław Choma,Prawo i Sprawiedliwość,16-12-1957,zarządzanie zasobami ludzkimi,,,87.9,450000,,,,,,,,,450000,87.9,5119.5
+45,Dominika Chorosińska,Prawo i Sprawiedliwość,29-12-1978,aktorka,,,92,600000,42,300000,,,,,,,900000,134,6716.4
+46,Tadeusz Chrzan,Prawo i Sprawiedliwość,14-09-1963,geodeta,,,,,,,,,,,,,0,0,#DIV/0!
+47,Alicja Chybicka,Koalicja Obywatelska,10-05-1951,lekarz,130,1000000,23,160000,50,250000,,,,,,,1410000,203,6945.8
+48,Anna Ewa Cicholska,Prawo i Sprawiedliwość,07-02-1962,nauczyciel,110,360000,,,,,,,,,,,360000,110,3272.7
+49,Janusz Cichoń,Koalicja Obywatelska,07-01-1957,"emeryt, nauczyciel akademicki",170,500000,,,,,,,,,,,500000,170,2941.2
+50,Krzysztof Ciecióra,Prawo i Sprawiedliwość,27-06-1989,,,,75.25,300000,,,,,,,,,300000,75.25,3986.7
+51,Janusz Cieszyński,Prawo i Sprawiedliwość,06-05-1988,menedżer,,,74.19,1100000,,,,,,,,,1100000,74.19,14826.8
+52,Michał Cieślak,Prawo i Sprawiedliwość,09-12-1974,ekonomista,90,150000,31,100000,43,250000,,,,,,,500000,164,3048.8
+53,Żaneta Cwalina-Śliwowska,Trzecia Droga Polska 2050 Szymona Hołowni - Polskie Stronnictwo Ludowe,10-12-1978,"pedagog, trener",160,800000,110,1000000,,,,,,,,,1800000,270,6666.7
+54,Krzysztof Czarnecki,Prawo i Sprawiedliwość,25-10-1957,technik budowlano-drogowy,,,,,,,,,,,,,0,0,#DIV/0!
+55,Witold Wojciech Czarnecki,Prawo i Sprawiedliwość,12-04-1953,nauczyciel akademicki,,,67.7,400000,26.92,140000,,,,,,,540000,94.62,5707.0
+56,Przemysław Czarnek,Prawo i Sprawiedliwość,11-06-1977,prawnik,220,1000000,,,,,,,,,,,1000000,220,4545.5
+57,Arkadiusz Czartoryski,Prawo i Sprawiedliwość,14-04-1966,urzędnik samorządowy,280,980000,,,,,,,,,,,980000,280,3500.0
+58,Włodzimierz Czarzasty,Nowa Lewica,03-05-1960,politolog,255.51,1500000,35.2,350000,,,,,,,,,1850000,290.71,6363.7
+59,Lidia Czechak,Prawo i Sprawiedliwość,03-02-1976,prawnik,160,500000,,,,,,,,,,,500000,160,3125.0
+60,Jacek Czerniak,Nowa Lewica,30-08-1964,politolog,,,,,,,,,,,,,0,0,#DIV/0!
+61,Zofia Czernow,Koalicja Obywatelska,30-09-1950,audytor finansowy,,,130,400000,,,,,,,,,400000,130,3076.9
+62,Anita Czerwińska,Prawo i Sprawiedliwość,13-01-1970,prawnik,153,700000,,,,,,,,,,,700000,153,4575.2
+63,Katarzyna Czochara,Prawo i Sprawiedliwość,03-11-1969,nauczyciel,350,1100000,,,,,,,,,,,1100000,350,3142.9
+64,Sławomir Ćwik,Trzecia Droga Polska 2050 Szymona Hołowni - Polskie Stronnictwo Ludowe,21-01-1972,"menedżer, prawnik, przedsiębiorca prywatny",165,800000,35,120000,70,40000,77.8,400000,139,500000,,,1860000,486.8,3820.9
+65,Władysław Dajczak,Prawo i Sprawiedliwość,10-07-1959,inżynier mechanik,140,700000,120,400000,,,,,,,,,1100000,260,4230.8
+66,Anna Dąbrowska-Banaszek,Prawo i Sprawiedliwość,14-04-1961,lekarz,,,71,200000,48.93,150000,,,,,,,350000,119.93,2918.4
+67,Zbigniew Dolata,Prawo i Sprawiedliwość,01-12-1965,nauczyciel,136,600000,,,,,,,,,,,600000,136,4411.8
+68,Barbara Dolniak,Koalicja Obywatelska,12-09-1960,prawnik,200,750000,64,140000,,,,,,,,,890000,264,3371.2
+69,Andrzej Domański,Koalicja Obywatelska,27-08-1981,"doradca ds. ekonomicznych, ekonomista",,,104.8,2245000,40,597000,,,,,,,2842000,144.8,19627.1
+70,Bartłomiej Dorywalski,Prawo i Sprawiedliwość,16-08-1979,radca prawny,170,200000,103,400000,,,,,,,,,600000,273,2197.8
+71,Robert Dowhan,Koalicja Obywatelska,14-07-1967,,486,5000000,66.58,2000000,,,,,,,,,7000000,552.58,12667.8
+72,Przemysław Drabek,Prawo i Sprawiedliwość,02-10-1979,menedżer,68.1,204000,,,,,,,,,,,204000,68.1,2995.6
+73,Elżbieta Duda,Prawo i Sprawiedliwość,20-11-1962,parlamentarzysta,170,600000,,,,,,,,,,,600000,170,3529.4
+74,Adam Dziedzic,Trzecia Droga Polska 2050 Szymona Hołowni - Polskie Stronnictwo Ludowe,26-09-1969,inżynier mechanik,180,350000,,,,,,,,,,,350000,180,1944.4
+75,Jan Michał Dziedziczak,Prawo i Sprawiedliwość,03-08-1981,urzędnik państwowy,,,,,,,,,,,,,0,0,#DIV/0!
+76,Agnieszka Dziemianowicz-Bąk,Lewica,20-01-1984,"filozof, pedagog",130,460000,,,,,,,,,,,460000,130,3538.5
+77,Magdalena Filiks,Koalicja Obywatelska,08-12-1978,ekonomista,169,420000,45.31,200000,,,,,,,,,620000,214.31,2893.0
+78,Magdalena Filipek-Sobczak,Prawo i Sprawiedliwość,07-09-1983,prawnik,228,600000,,,,,,,,,,,600000,228,2631.6
+79,Radosław Fogiel,Prawo i Sprawiedliwość,16-02-1982,parlamentarzysta,,,39.47,325000,54.34,550000,,,,,,,875000,93.81,9327.4
+80,Bronisław Foltyn,Konfederacja Wolność i Niepodległość,12-08-1974,przedsiębiorca prywatny,216.48,2500000,461.87,5800000,56,450000,,,,,,,8750000,734.35,11915.3
+81,Roman Fritz,Konfederacja Wolność i Niepodległość,03-01-1966,przedsiębiorca prywatny,128.4,695000,109.44,450000,74.97,400000,,,,,,,1545000,312.81,4939.1
+82,Joanna Frydrych,Koalicja Obywatelska,13-01-1978,"ekonomista, pracownik administracji państwowej",67.18,974000,,,,,,,,,,,974000,67.18,14498.4
+83,Konrad Frysztak,Koalicja Obywatelska,15-02-1986,"dziennikarz, prawnik",121.4,712362,72.55,461176,,,,,,,,,1173538,193.95,6050.7
+84,Patryk Gabriel,Koalicja Obywatelska,29-03-1977,urzędnik samorządowy,134,600000,39.41,400000,,,,,,,,,1000000,173.41,5766.7
+85,Krzysztof Gadowski,Koalicja Obywatelska,14-08-1962,inżynier transportu,190,526000,,,,,,,,,,,526000,190,2768.4
+86,Aleksandra Gajewska,Koalicja Obywatelska,22-08-1989,przedsiębiorca prywatny,,,,,,,,,,,,,0,0,#DIV/0!
+87,Kinga Gajewska,Koalicja Obywatelska,22-07-1990,"politolog, prawnik",166,700000,,,,,,,,,,,700000,166,4216.9
+88,Elżbieta Gapińska,Koalicja Obywatelska,03-10-1960,pedagog,250,550000,,,,,,,,,,,550000,250,2200.0
+89,Krzysztof Gawkowski,Nowa Lewica,11-04-1980,nauczyciel akademicki,251.59,1000000,,,,,,,,,,,1000000,251.59,3974.7
+90,Zdzisław Gawlik,Koalicja Obywatelska,12-09-1960,nauczyciel akademicki,187,450000,53.01,400000,,,,,,,,,850000,240.01,3541.5
+91,Andrzej Gawron,Prawo i Sprawiedliwość,06-01-1965,parlamentarzysta,105,250000,100,290000,,,,,,,,,540000,205,2634.1
+92,Grzegorz Gaża,Prawo i Sprawiedliwość,23-03-1972,"parlamentarzysta, przedsiębiorca prywatny",271,1190000,146,13687,93,230000,,,,,,,1433687,510,2811.2
+93,Elżbieta Gelert,Koalicja Obywatelska,22-04-1955,menedżer,137,900000,,,,,,,,,,,900000,137,6569.3
+94,Anna Gembicka,Prawo i Sprawiedliwość,07-11-1991,"prawnik, wyższy urzędnik państwowy",101,420000,38,570000,,,,,,,,,990000,139,7122.3
+95,Artur Daniel Gierada,Koalicja Obywatelska,21-04-1979,politolog,109,1000000,35.5,250000,,,,,,,,,1250000,144.5,8650.5
+96,Roman Giertych,Koalicja Obywatelska,27-02-1971,adwokat,60.02,1500000,,,,,,,,,,,1500000,60.02,24991.7
+97,Włodzisław Giziński,Koalicja Obywatelska,19-10-1952,,380,0,,,,,,,,,,,0,380,0.0
+98,Szymon Giżyński,Prawo i Sprawiedliwość,08-03-1956,urzędnik państwowy,120,550000,73.2,420000,,,,,,,,,970000,193.2,5020.7
+99,Piotr Gliński,Prawo i Sprawiedliwość,20-04-1954,pracownik naukowo-dydaktyczny,400,3000000,58,450000,,,,,,,,,3450000,458,7532.8
+100,Tomasz Głogowski,Koalicja Obywatelska,30-12-1974,nauczyciel akademicki,199,400000,110,300000,,,,,,,,,700000,309,2265.4
+101,Piotr Głowski,Koalicja Obywatelska,22-07-1967,ekonomista,400,1400000,55,200000,,,,,,,,,1600000,455,3516.5
+102,Marta Golbik,Koalicja Obywatelska,14-04-1985,przedsiębiorca prywatny,300,1200000,,,,,,,,,,,1200000,300,4000.0
+103,Małgorzata Golińska,Prawo i Sprawiedliwość,30-10-1980,leśnik,157.44,930000,59.57,320000,27.51,180000,,,,,,,1430000,244.52,5848.2
+104,Kazimierz Gołojuch,Prawo i Sprawiedliwość,05-02-1964,parlamentarzysta,114,400000,,,,,,,,,,,400000,114,3508.8
+105,Adam Gomoła,Trzecia Droga Polska 2050 Szymona Hołowni - Polskie Stronnictwo Ludowe,20-01-1999,specjalista ds. rozwoju i promocji,,,,,,,,,,,,,0,0,#DIV/0!
+106,Robert Gontarz,Prawo i Sprawiedliwość,02-07-1993,"ekonomista, matematyk, parlamentarzysta",,,,,,,,,,,,,0,0,#DIV/0!
+107,Stanisław Gorczyca,Koalicja Obywatelska,27-07-1958,biolog,374,1500000,36,400000,32.6,450000,,,,,,,2350000,442.6,5309.5
+108,Daria Gosek-Popiołek,Nowa Lewica,16-04-1985,pracownik samorządowy,,,70,390000,,,,,,,,,390000,70,5571.4
+109,Mariusz Gosek,Prawo i Sprawiedliwość,20-08-1982,pedagog,,,42,300000,,,,,,,,,300000,42,7142.9
+110,Piotr Górnikiewicz,Trzecia Droga Polska 2050 Szymona Hołowni - Polskie Stronnictwo Ludowe,09-07-1972,ekonomista,,,84,590000,,,,,,,,,590000,84,7023.8
+111,Agnieszka Górska,Prawo i Sprawiedliwość,01-01-1976,ekonomista,100,450000,128,500000,,,,,,,,,950000,228,4166.7
+112,Krzysztof Grabczuk,Koalicja Obywatelska,22-04-1962,nauczyciel akademicki,189,450000,57,300000,,,,,,,,,750000,246,3048.8
+113,Jan Grabiec,Koalicja Obywatelska,02-11-1972,urzędnik państwowy,121,600000,239.85,70000,,,,,,,,,670000,360.85,1856.7
+114,Marcin Grabowski,Prawo i Sprawiedliwość,06-04-1981,pracownik administracji państwowej,115,500000,32.3,100000,43.65,170000,42.88,580000,,,,,1350000,233.83,5773.4
+115,Michał Gramatyka,Trzecia Droga Polska 2050 Szymona Hołowni - Polskie Stronnictwo Ludowe,08-10-1971,radca prawny,210,700000,,,,,,,,,,,700000,210,3333.3
+116,Małgorzata Gromadzka,Koalicja Obywatelska,24-03-1985,pracownik administracji samorządowej,120,450000,,,,,,,,,,,450000,120,3750.0
+117,Marek Gróbarczyk,Prawo i Sprawiedliwość,13-03-1968,inżynier mechanik,145,300000,72,550000,37,220000,45,236538,49,257562,89,630000,2194100,437,5020.8
+118,Barbara Grygorcewicz,Koalicja Obywatelska,27-09-1963,nauczyciel,121,700000,56,350000,64,400000,,,,,,,1450000,241,6016.6
+119,Andrzej Grzyb,Trzecia Droga Polska 2050 Szymona Hołowni - Polskie Stronnictwo Ludowe,23-08-1956,"ekonomista, inżynier ogrodnik",240,500000,,,,,,,,,,,500000,240,2083.3
+120,Andrzej Gut-Mostowy,Prawo i Sprawiedliwość,30-10-1960,ekonomista,340,2000000,,,,,,,,,,,2000000,340,5882.4
+121,Kazimierz Gwiazdowski,Prawo i Sprawiedliwość,10-06-1962,rolnik,220,310000,,,,,,,,,,,310000,220,1409.1
+122,Marcin Gwóźdź,Prawo i Sprawiedliwość,14-12-1977,inżynier,124,320000,54.87,140000,,,,,,,,,460000,178.87,2571.7
+123,Marek Gzik,Koalicja Obywatelska,03-09-1971,nauczyciel akademicki,137,800000,,,,,,,,,,,,,
