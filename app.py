@@ -3,7 +3,7 @@ import pandas as pd
 
 # Tytuł aplikacji
 st.title("Analiza danych z oświadczeń majątkowych posłów na sejm RP")
-st.write("Do analizy wzięto dane z oświadczeń majatkowych poslów dotyczących tylko ich domów i mieszkań (póki co inne nieruchomości zostały pominięte).") 
+st.write("Do analizy wzięto dane z oświadczeń majatkowych posłów dotyczących tylko ich domów i mieszkań (póki co inne nieruchomości zostały pominięte).") 
 st.write("Jeśli wystepują zrozbieżności między wartościami rzeczywistymi z oświadczenia a bazą to proszę daj znać, poprawię.- antylobbypolska@gmail.com")
 st.write("Baza nie jest jeszcze uzpełniona i będzie sukcesywnie rozwijana. Póki co skończyłem na literce 'G'")
 # Wczytanie danych
