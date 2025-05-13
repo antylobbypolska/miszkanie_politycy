@@ -5,7 +5,7 @@ import pandas as pd
 st.title("Analiza danych z oświadczeń majątkowych posłów na sejm RP")
 st.write("Do analizy wzięto dane z oświadczeń majatkowych posłów dotyczących tylko ich domów i mieszkań (póki co inne nieruchomości zostały pominięte). Dane źródłowe - https://sejm.gov.pl/sejm10.nsf/poslowie.xsp?type=A") 
 st.write("Jeśli wystepują zrozbieżności między wartościami rzeczywistymi z oświadczenia a bazą to proszę daj znać, poprawię.- antylobbypolska@gmail.com")
-st.write("Baza nie jest jeszcze uzpełniona i będzie sukcesywnie rozwijana. Póki co skończyłem na literce 'G'")
+st.write("Baza nie jest jeszcze uzpełniona i będzie sukcesywnie rozwijana. Jak dotąd skończyłem na literce 'G'")
 # Wczytanie danych
 try:
     df = pd.read_csv("parlament.csv")
