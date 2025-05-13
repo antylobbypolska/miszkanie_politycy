@@ -2,9 +2,10 @@ import streamlit as st
 import pandas as pd
 
 # Tytuł aplikacji
-st.title("Analiza danych z oswidczen majatkowych poslow na sejm")
-st.write("Do analizy wzieto dane z oswiadczen majatkowych poslow dotyczacych tylko domow i miekszan (inne nieruchomosci zostaly pominiete).") 
-st.write("Jesli wystepuja zrozbieznosci miedzy wartosciami rzeczywisymi z oswiadczenia to prosze dac znac, poprawie.")
+st.title("Analiza danych z oświadczeń majątkowych posłów na sejm RP")
+st.write("Do analizy wzięto dane z oświadczeń majatkowych poslów dotyczących tylko ich domów i mieszkań (póki co inne nieruchomości zostały pominięte).") 
+st.write("Jeśli wystepują zrozbieżności między wartościami rzeczywistymi z oświadczenia a bazą to proszę daj znać, poprawię.- antylobbypolska@gmail.com")
+st.write("Baza nie jest jeszcze uzpełniona i będzie sukcesywnie rozwijana. Póki co skończyłem na literce 'G'")
 # Wczytanie danych
 try:
     df = pd.read_csv("parlament.csv")
